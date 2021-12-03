@@ -1,0 +1,97 @@
+<html>
+    <head>
+        <style>
+        #box{
+            border: 3px solid black;
+            width: 400px;
+            height: 400px;
+        }
+
+
+.card1{
+            border: 1px solid #ff8000;
+            width: 20px;
+            height: 20px;
+            margin: 50px 100px;
+        }
+
+.card2{
+            border: 1px solid rgb(255, 187, 0);
+            width: 20px;
+            height: 20px;
+            margin: 50px 100px;
+        }
+
+.card3{
+            border: 1px solid rgb(255, 187, 0);
+            width: 20px;
+            height: 20px;
+            margin: 50px 100px;
+        }
+
+
+.card4{
+            border: 1px solid rgb(255, 187, 0);
+            width: 20px;
+            height: 20px;
+            margin: 50px 100px;
+        }
+
+.card5{
+            border: 1px solid rgb(255, 187, 0);
+            width: 20px;
+            height: 20px;
+            margin: 50px 100px;
+        }
+.card6{
+            border: 1px solid rgb(255, 187, 0);
+            width: 20px;
+            height: 20px;
+            margin: 50px 100px;
+        }
+.card7{
+            border: 1px solid rgb(255, 187, 0);
+            width: 20px;
+            height: 20px;
+            margin: 50px 100px;
+        }
+
+.card8{
+            border: 1px solid rgb(255, 187, 0);
+            width: 20px;
+            height: 20px;
+            margin: 50px 100px;
+        }
+
+.card9{
+            border: 1px solid rgb(255, 187, 0);
+            width: 20px;
+            height: 20px;
+            margin: 50px 100px;
+        }
+
+.card10{
+            border: 1px solid rgb(255, 187, 0);
+            width: 20px;
+            height: 20px;
+            margin: 50px 100px;
+        }
+        </style>
+    </head>
+    <body>
+        <div id="box">
+        <div class="card1">2	</div>
+	<div class="card2">4	</div>	
+	<div class="card3">6	</div>
+	<div class="card4">8	</div>
+	<div class="card5">10	</div>
+	<div class="card6">12	</div>
+	<div class="card7">14	</div>
+	<div class="card8">16	</div>
+	<div class="card9">18	</div>
+	<div class="card10">20	</div>
+
+            </div>
+        </div>
+    </body>
+</html>
